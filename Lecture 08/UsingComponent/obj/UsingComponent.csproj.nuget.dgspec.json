@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Demo\\OOP_Demo\\UsingComponent\\UsingComponent.csproj": {}
+    "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\OOP_Demo_Code\\Lecture 08\\UsingComponent\\UsingComponent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Demo\\OOP_Demo\\UsingComponent\\UsingComponent.csproj": {
+    "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\OOP_Demo_Code\\Lecture 08\\UsingComponent\\UsingComponent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Demo\\OOP_Demo\\UsingComponent\\UsingComponent.csproj",
+        "projectUniqueName": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\OOP_Demo_Code\\Lecture 08\\UsingComponent\\UsingComponent.csproj",
         "projectName": "UsingComponent",
-        "projectPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Demo\\OOP_Demo\\UsingComponent\\UsingComponent.csproj",
+        "projectPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\OOP_Demo_Code\\Lecture 08\\UsingComponent\\UsingComponent.csproj",
         "packagesPath": "C:\\Users\\Deren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\Demo\\OOP_Demo\\UsingComponent\\obj\\",
+        "outputPath": "C:\\Users\\Deren\\OneDrive - UGM 365\\Documents\\College\\3rd Semester\\Pemrograman Berorientasi Objek\\OOP_Demo_Code\\Lecture 08\\UsingComponent\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Deren\\AppData\\Roaming\\NuGet\\NuGet.Config",
